@@ -2,7 +2,7 @@
 <template>
   <!-- Main Content -->
 
-  <div class="text-md shrink grow-0 font-extrabold text-slate">
+  <div class="text-md shrink grow-0 font-extrabold text-green">
     monthly coffee subscription
   </div>
 

@@ -17,12 +17,13 @@ module.exports = {
       },
     },
     colors: {
-      green: "#549F93",
       blue: "#438FF7",
       orange: "#FF7759",
       white: "#FFFFFF",
       slate: "#435058",
       lightGray: "#EBEBEB",
+      gold: "#FFC15E",
+      green: "#4C5D4F",
     },
     boxShadow: {
       "3xl": "inset 2px 2px 10px #111211, inset -2px -2px 10px #151715",
